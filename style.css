@@ -268,4 +268,11 @@ header{
     }
 }
 
+.footer__{
+    background: linear-gradient(45deg , #FF2500, #FF7100);
+}
 
+.footer__registrado {
+   padding: 10px;
+   align-items: center;
+}
